@@ -7,6 +7,8 @@ Welcome to Bookmark landing page website!. I created this website to showcase my
 - Clean design
 - Responsive layout
   - 1440px - 375px
+- Accordion feature for improved readability and organization of content
+- Dynamic content that changes based on user clicks, offering an engaging user experience 
 
 
 ## Technologies Used
